@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+
+}
+p.prim{
+    color: tomato;
+}
+
+h1{
+    color: burlywood;
+}
+
+span.numimpar{
+    background-color: lightpink;
+    font-size: 4rem;
+}
+
+span.numpar{
+    background-color: whitesmoke;
+    font-size: 4rem;
+}
+p{
+    font-size: 2rem;
+}
+
